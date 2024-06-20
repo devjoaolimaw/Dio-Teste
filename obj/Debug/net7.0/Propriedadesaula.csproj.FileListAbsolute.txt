@@ -1,0 +1,17 @@
+c:\dev\Propriedadesaula\bin\Debug\net7.0\Propriedadesaula.exe
+C:\dev\Propriedadesaula\bin\Debug\net7.0\Propriedadesaula.deps.json
+C:\dev\Propriedadesaula\bin\Debug\net7.0\Propriedadesaula.runtimeconfig.json
+c:\dev\Propriedadesaula\bin\Debug\net7.0\Propriedadesaula.dll
+c:\dev\Propriedadesaula\bin\Debug\net7.0\Propriedadesaula.pdb
+c:\dev\Propriedadesaula\obj\Debug\net7.0\Propriedadesaula.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\Propriedadesaula\obj\Debug\net7.0\Propriedadesaula.AssemblyInfoInputs.cache
+c:\dev\Propriedadesaula\obj\Debug\net7.0\Propriedadesaula.AssemblyInfo.cs
+c:\dev\Propriedadesaula\obj\Debug\net7.0\Propriedadesaula.csproj.CoreCompileInputs.cache
+c:\dev\Propriedadesaula\obj\Debug\net7.0\Propriedadesaula.dll
+c:\dev\Propriedadesaula\obj\Debug\net7.0\refint\Propriedadesaula.dll
+c:\dev\Propriedadesaula\obj\Debug\net7.0\Propriedadesaula.pdb
+C:\dev\Propriedadesaula\obj\Debug\net7.0\Propriedadesaula.genruntimeconfig.cache
+C:\dev\Propriedadesaula\obj\Debug\net7.0\ref\Propriedadesaula.dll
+c:\dev\Propriedadesaula\bin\Debug\net7.0\Newtonsoft.Json.dll
+c:\dev\Propriedadesaula\obj\Debug\net7.0\Propriedadesaula.csproj.AssemblyReference.cache
+C:\dev\Propriedadesaula\obj\Debug\net7.0\Propriedadesaula.csproj.CopyComplete
